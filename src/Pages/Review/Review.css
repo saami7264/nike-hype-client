@@ -1,0 +1,17 @@
+.review-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 60vh;
+}
+.review-field{
+    width: 50%;
+    margin-bottom: 30px;
+}
+.review-field-text{
+    width: 50%;
+    margin-top: -30px;
+    margin-left: -10px;
+    height: 100px;
+}

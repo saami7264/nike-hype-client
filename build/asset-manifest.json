@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46b3284c.chunk.css",
+    "main.js": "/static/js/main.ff1e2b5b.chunk.js",
+    "main.js.map": "/static/js/main.ff1e2b5b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9e4b041d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9e4b041d.js.map",
+    "static/js/2.8471ae82.chunk.js": "/static/js/2.8471ae82.chunk.js",
+    "static/js/2.8471ae82.chunk.js.map": "/static/js/2.8471ae82.chunk.js.map",
+    "static/js/3.dd941ed7.chunk.js": "/static/js/3.dd941ed7.chunk.js",
+    "static/js/3.dd941ed7.chunk.js.map": "/static/js/3.dd941ed7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.46b3284c.chunk.css.map": "/static/css/main.46b3284c.chunk.css.map",
+    "static/js/2.8471ae82.chunk.js.LICENSE.txt": "/static/js/2.8471ae82.chunk.js.LICENSE.txt",
+    "static/media/login.54be35b4.png": "/static/media/login.54be35b4.png",
+    "static/media/sneaker-center.46d2223d.png": "/static/media/sneaker-center.46d2223d.png",
+    "static/media/sneakers-left.ccdfdf22.png": "/static/media/sneakers-left.ccdfdf22.png",
+    "static/media/sneakers-right.a6bac0b2.png": "/static/media/sneakers-right.a6bac0b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e4b041d.js",
+    "static/js/2.8471ae82.chunk.js",
+    "static/css/main.46b3284c.chunk.css",
+    "static/js/main.ff1e2b5b.chunk.js"
+  ]
+}

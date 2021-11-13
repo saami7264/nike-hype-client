@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+.text{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: whitesmoke;
+}
+.img{
+    width: 400px;
+    height: 200px;
+}
+.product-card{
+    padding: 20px;
+}
+.purchase-btn{
+    background-color: #F82E40;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+}
+.purchase-btn:hover{
+    background-color: #F9BF33;
+}

@@ -1,0 +1,12 @@
+.purchase-field{
+    width: 200px;
+    height: 40px;
+    margin-right: 10px;
+    border: 2px solid #F82E40;
+    border-radius: 10px;
+}
+.address-field{
+    margin-top: 10px;
+    border: 2px solid #F82E40;
+    border-radius: 10px;
+}

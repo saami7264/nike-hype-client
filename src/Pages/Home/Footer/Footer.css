@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+.text{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: whitesmoke;
+}
+.text-2{
+    color: gray;
+}
+.footer{
+    border-top: 2px solid gray;
+}
+.icon{
+    margin-top: 10%;
+}
+.links{
+    text-decoration: none;
+}
